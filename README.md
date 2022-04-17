@@ -19,10 +19,8 @@
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=cristoph143&show_icons=true&theme=maroongold&line_height=29&hide=stars&count_private=true%22%20style=%22vertical-align:middle)
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristoph143&theme=maroongold)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=cristoph143&show_icons=true&theme=maroongold&line_height=28.5%22%20style=%22vertical-align:middle)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristoph143&langs_count=10&layout=compact&theme=maroongold)
 <br>
 And more...
 
