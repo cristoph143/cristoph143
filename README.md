@@ -1,7 +1,5 @@
 # ![https://github.com/cristoph143](https://c.tenor.com/B64bnz6gRjEAAAAi/wave-hello.gif)    Hello, my name is Cristopher Bohol
 
-![https://github.com/cristoph143](https://raw.githubusercontent.com/cristoph143/cristoph143/main/profile.gif)
-
 ### 3rd Year Computer Science Student 🤓
 
 ![GitHub Followers](https://img.shields.io/github/followers/cristoph143?style=social)
