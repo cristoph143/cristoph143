@@ -1,6 +1,9 @@
 # ![https://github.com/cristoph143](https://c.tenor.com/B64bnz6gRjEAAAAi/wave-hello.gif)    Hello, my name is Cristopher Bohol
 
-<h3 align="center">A passionate 4th Year Computer Science Student</h3>
+<h3 align="center">Aspiring Software Engineer</h3>
+<p align="center">
+  I am a dedicated software engineer with 6 months of hands-on internship experience at Vapotherm. Skilled in Java, Python, and C, I have worked extensively on software documentation, app development using frameworks such as Next.js and Django, and ensuring software quality through rigorous testing. Experienced in collaborating within dynamic teams using project management tools like JIRA, I am eager to apply my programming expertise to contribute to innovative and impactful software projects.
+</p>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=cristoph143&label=Profile%20views&color=0e75b6&style=flat" alt="cristoph143" /> 
@@ -18,13 +21,11 @@
   </a> 
 </p>
 
-- 🔭 I’m currently working on [Research Repository](https://github.com/cristoph143/EUL_Thesis_WebVersion)
-
 - 👨‍💻 All of my projects are available at [https://github.com/cristoph143?tab=repositories](https://github.com/cristoph143?tab=repositories)
 
 - 📫 How to reach me **cris.bacus6@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1tYc9zqnvdt-rwRvj0LasMwg2vKQkjWps/view?usp=sharing](https://drive.google.com/file/d/1tYc9zqnvdt-rwRvj0LasMwg2vKQkjWps/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1tYc9zqnvdt-rwRvj0LasMwg2vKQkjWps/view?usp=sharing](https://drive.google.com/file/d/1scKc9P_c4i39dBCKmJ7xqWVSErsROiHt/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
